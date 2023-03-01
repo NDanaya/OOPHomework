@@ -10,4 +10,6 @@ public class Knight : Unit
     public override int UnitDamage { set; get; } = 13;
     public override string UnitSkills { set; get; } = "Shield of Atonement";
     
+    public int CooldownTime { set; get; }
+    
 }

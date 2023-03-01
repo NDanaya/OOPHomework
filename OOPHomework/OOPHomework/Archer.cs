@@ -9,4 +9,7 @@ public class Archer : Unit
     
     public override int UnitDamage { set; get; } = 48;
     public override string UnitSkills { set; get; } = "Blazing Arrow";
+    
+    public int ArrowDistance { set; get; }
+    
 }

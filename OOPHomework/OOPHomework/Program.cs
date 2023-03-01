@@ -14,9 +14,13 @@ knight.UnitName = "Medieval Legacy";
 archer.UnitName = "The Golden Arrow";
 mage.UnitName = "Mystic Vestment";
 
-Console.WriteLine($"{knight.UnitName} damage is {knight.UnitDamage} and the main skill is {knight.UnitSkills}");
-Console.WriteLine($"{archer.UnitName} damage is {archer.UnitDamage} and the main skill is {archer.UnitSkills}");
-Console.WriteLine($"{mage.UnitName} damage is {mage.UnitDamage} and the main skill is {mage.UnitSkills}");
+knight.CooldownTime = 5;
+archer.ArrowDistance = 17;
+mage.MagicAmount = 9;
+
+Console.WriteLine($"{knight.UnitName} damage is {knight.UnitDamage} and the main skill is {knight.UnitSkills}, cooldown time is {knight.CooldownTime}");
+Console.WriteLine($"{archer.UnitName} damage is {archer.UnitDamage} and the main skill is {archer.UnitSkills}, arrow distance is {archer.ArrowDistance}");
+Console.WriteLine($"{mage.UnitName} damage is {mage.UnitDamage} and the main skill is {mage.UnitSkills}, amount of magic left is {mage.MagicAmount}");
 
 Unit chosenClass = null;
 
