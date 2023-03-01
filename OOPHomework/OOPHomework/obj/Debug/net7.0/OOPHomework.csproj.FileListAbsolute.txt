@@ -1,0 +1,15 @@
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\bin\Debug\net7.0\OOPHomework.exe
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\bin\Debug\net7.0\OOPHomework.deps.json
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\bin\Debug\net7.0\OOPHomework.runtimeconfig.json
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\bin\Debug\net7.0\OOPHomework.dll
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\bin\Debug\net7.0\OOPHomework.pdb
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\obj\Debug\net7.0\OOPHomework.csproj.AssemblyReference.cache
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\obj\Debug\net7.0\OOPHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\obj\Debug\net7.0\OOPHomework.AssemblyInfoInputs.cache
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\obj\Debug\net7.0\OOPHomework.AssemblyInfo.cs
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\obj\Debug\net7.0\OOPHomework.csproj.CoreCompileInputs.cache
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\obj\Debug\net7.0\OOPHomework.dll
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\obj\Debug\net7.0\refint\OOPHomework.dll
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\obj\Debug\net7.0\OOPHomework.pdb
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\obj\Debug\net7.0\OOPHomework.genruntimeconfig.cache
+D:\unity\gitRepository\OOPHomework\OOPHomework\OOPHomework\obj\Debug\net7.0\ref\OOPHomework.dll
